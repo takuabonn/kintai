@@ -1,6 +1,6 @@
 // main.go
 package main
-
+import  "fmt"
 func main() {
-  println("Hell World")
+  fmt.Println("Hell World")
 }
