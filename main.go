@@ -1,6 +1,11 @@
-// main.go
+/*
+Copyright © 2022 NAME HERE <EMAIL ADDRESS>
+
+*/
 package main
-import  "fmt"
+
+import "main/cmd"
+
 func main() {
-  fmt.Println("Hell World")
+	cmd.Execute()
 }
